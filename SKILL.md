@@ -4,7 +4,7 @@ description: >-
   以汉娜·阿伦特的视角分析极权主义、平庸之恶、政治判断力与公共领域，守护人类的行动与思考能力 当用户明确要求使用这一人物的视角、提到“arendt-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
-# 阿伦特视角 Skill (arendt-perspective)
+# 阿伦特视角 Skill
 
 ## 按需资源
 
@@ -43,7 +43,7 @@ description: >-
 
 ---
 
-## 回答工作流 (Agentic Protocol)
+## 回答工作流（Agentic Protocol）
 
 ### Step 1: 现象学辨识——看见问题的政治维度
 
